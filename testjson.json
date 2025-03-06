@@ -1,0 +1,194 @@
+[
+  {
+    "id": "5044",
+    "header": "APP popped off 33% after earnings beat",
+    "date": "13 Feb 2025",
+	"description": "What this proves is the efficacy of my Stocks Rating App every one of my highly rated stocks from AVGO to PLTR all saw high performance in the last few months. Netted about $2000 from this whole appreciation. My view is that this stock is similar to Netflix their user base is around the same size at 300 million so I will not sell a single share and keep holding till it reaches 90% of NFLX market cap of $443B now. Sold off some PLTR few days ago because PLTR is really starting to get tricky but unlike APP i’m super behind this stock and I’m optimistic"
+  },
+  {
+    "id": "5041",
+    "header": "Bought an AMD Call option expiry 19 Dec 2025 strike $90 at market price $109 for $30.85",
+    "date": "10 Feb 2025",
+	"description": "Although AMD is only rated 9 ish in my system, my DCF tells me its valuation should be at $175 not $109 plenty upside after speculators’ fear dumping. Few things to note here: yes it is a volatile chip stock subject to administration policies and China-Taiwan geopolitical tension as AMD still relies heavily on TSMC for the production for its chips. However, when you look at factors supporting its valuation you see their Epyc CPUs which are highly favoured in data centers over Intel CPUs furthermore every 10 GPU needs a CPU (rough estimate here). If their data center revenue fell short this quarter its good news that they still have ceiling to grow the next quarter. I will keep doing Poor Man’s Covered Calls at $135 for June 2025 and I believe we might see upwards movement in either March like it did last year (when it skyrocketed to $210) or late 2025 which I’ll then roll my LEAPs to a later date. One more point about AMD options is that in the past whenever IV is low the price is bound to have large movements over the next few months."
+  },
+  {
+    "id": "5036",
+    "header": "PLTR post earnings jump 25%, Karp: “beginning phase of AI”, huge growth in US Gov and US Commercial sector double digit growth",
+    "date": "5 Feb 2025",
+	"description": "Only managed $600 from this stock boost as I sold my LEAP last friday. Do i regret my decision? no. Is there anything to be learned from this? yes. IV crush does not affect LEAP that still has 6 months that significantly. LEAP rose from 3.2k to 4.9k about 50% increase while the underlying stock only rose 25%. One thing i learned is to use the factors of earnings: 1) expectation, 2) surprise, 3) outlook, 4) company restructure (CEO step down?), 5) use news report leading up to earnings (newly formed gov contracts)"
+  },
+  {
+    "id": "5034",
+    "header": "lots of stock developments today after announcement of trump tariffs 25% on canada and mexico",
+    "date": "3 Feb 2025",
+	"description": "DLTR dropped 7% back to $68 just $1 below my intrinsic calc of $69 last year proving my analysis to be quite spot on, also stocks are falling all across the board except for VISA. TSLA and NVDA odwn 4% due to export controls and tariffs… Cash position is largest at $5700 on lynns account perfect opportunity to do stock sweep purchasing. Thankfully i liquidated my PLTR option as PLTR came back to $80 level from $84, i have so do some purchasing today or the opportunity cost would be burned. SOFI at $15.02 but i have designated LZ account to purchase it lower with $400 budget so we will monitor that, in the meantime not buying APP/PLTR due to them being too close to earnings call. PLTR is today and APP is next week 13th Feb."
+  },
+  {
+    "id": "5029",
+    "header": "Development in DeepSeek. The consensus now is that though V3 is trained from the ground up, R1 may have used outputs by API calls to ChatGPT to train its reasoning capabilities. Which is why they are able to do unsupervised GRPO training as they pull answers from other LLM.",
+    "date": "29 Jan 2025",
+	"description": ""
+  },
+  {
+    "id": "5030",
+    "header": "NVDA drops 4% amid Trump’s hint of more export controls including the newly-tweaked H20 chips designed for the Chinese market",
+    "date": "30 Jan 2025",
+	"description": ""
+  },
+  {
+    "id": "5028",
+    "header": "Basically the AI stock landscape boils down to just these 2 questions: are the Chinese lying about their costs and unit numbers or are the Americans being unreasonably defensive.",
+    "date": "28 Jan 2025",
+	"description": "If you think the Chinese are indeed lying about the equipments used to produce R1 then buy, buy, buy AI stocks now, the competition will be much fiercer everyone will be trying to come up with a better model. If you think the Americans are in denial and actually caught up, you will find yourself in a bearish stance on this sector. *One undeniable fact is that they are definitely more efficient than ChatGPT but the question is “by how much?”. 5% of ChatGPT may be overblown but since its more efficient at inference its def more efficient than OpenAI’s"
+  },
+  {
+    "id": "5028",
+    "header": "One valid observation from this DeepSeek fiasco is how complacent US corporations have become, hiding before the artificial moat that protectionism policies created",
+    "date": "28 Jan 2025",
+	"description": "Now that the mirror is shattered, US companies will have to up their game, reorganize and respond accordingly especially Meta and OpenAI. "
+  },
+  {
+    "id": "5028",
+    "header": "AI and Apple’s decision to go Unified Memory might have saved Apple from the impending innovation stagnation and slowing iPhone sales.",
+    "date": "28 Jan 2025",
+	"description": "With Unified Memory business and home users can now build their own AI clusters using a lower price to value ratio as the memory in silicon chips can be used by CPU and GPU unlike NVIDIA vram which is only 24GB for the high end consumer grade graphics card and for higher the price tag is $30,000 for A100 or even more for Hopper series  There will be a pivot in the tech sector where people will move away from unaffordable GPU clusters to budget friendly mac mini clusters powered by EXO library that controls the node gpus. "
+  },
+  {
+    "id": "5027",
+    "header": "DeepSeek R1 model is sending shockwaves through AI and tech companies like GOOGL, META, AMZN, AVGO, NVDA",
+    "date": "27 Jan 2025",
+	"description": "Even my mom and dad has heard about this latest R1 model which means their prevalence is picking up steam. Investors are rightful to be concerned as the training of this model only costs $5.6 million wildly under the cost OpenAI undertook to develop Chatgpt o1 model. Furthermore, DeepSeek proved that efficiency of the code is more important than the powerfulness of the GPUs you train the model on. Even with chip export restrictions from the US, DeepSeek still managed to train such a superb model although it’s an open secret that DeepSeek definitely has some high end GPUs bypassing the export curb by acquiring them from third party sellers. The AI race has officially entered main stage. Even though chip stocks are falling because of this, they stand to gain from it too as the competition will just grow fiercer and demand for high end GPUs will accelerate. Just because a Honda is fuel efficient and can get you from point A to point B does not mean people will stop seeking the Porsche that can get you there faster albeit it consumes more fuel."
+  },
+  {
+    "id": "5027.5",
+    "header": "NEVER BET ON EARNINGS, SOFI beat earnings with positive members growth but stock still fell 14%",
+    "date": "27 Jan 2025",
+	"description": "I bought 65 shares at $15.4 using the $800 i liquidated from SOFI last week. I almost bought more into earnings thankfully i didnt go all in on earnings. When the whole market is expected positive report and already priced it in as seen with the price increase of SOFI stock, even if the stock does deliver the stock might fall I feel like the panic is unjustified so i bought in if history were to repeat we should see SOFI do a huge recover tmr"
+  },
+  {
+    "id": "5022",
+    "header": "ARM jumped 14% to $174 upon news of Softbank Massa and Trump Cooperation",
+    "date": "22 Jan 2025",
+	"description": "Softbank and Trump is launching a private investment into the AI sector launching a new project Stargate"
+  },
+  {
+    "id": "5022.5",
+    "header": "NFLX up 14% after market post earnings",
+    "date": "22 Jan 2025",
+	"description": "EPS for Q4 up 19% YoY, revenue up 99%, final report of subscribers at 302million, boosted by squid game 2 and Jake x Tyson "
+  },
+  {
+    "id": "5023",
+    "header": "SOFI jumped 5% to $17.30 after trump’s inauguration (21-1-2025)",
+    "date": "23 Jan 2025",
+	"description": "liquidated a quarter of my position in SOFI"
+  },
+  {
+    "id": "5016",
+    "header": "SOFI, AFFIRM stock up 7% to $15.51 from weeks low of $13.41",
+    "date": "16 Jan 2025",
+	"description": "Due to banks outperform rating on its stock plus though its faced with interest rate hiccups this year and last year is really the years for PLTR and SOFI Imo they stock having will trading under for too long, SOFI rise today also due to cooler than expected CPI inflation report at 3.2%"
+  },
+  {
+    "id": "5013",
+    "header": "Hedge Funds are playing a game: selling the stocks that are hyped by investors and most-paraded on YouTube (TSLA, PLTR, SOFI, APP",
+    "date": "13 Jan 2025",
+	"description": "Is there a coincidence these tech stocks are similarly down ~20% from recent ATH while other stocks not as talked about by YouTubers are only down ~10% (NVDA, AVGO, AMZN) Clearly the big funds are trying to use this macro opportunity to whack all the small retail traders by trading off their position causing a panic in new inexperienced traders who then sell their positions off at a loss further pushing everything down. These are good stocks I have picked (except for SOFI considering the absence of IR cuts) I see no point in panicking in my position their are well averaged well fortified and just got to hold out this storm though im considerably worried for my bout-to-expire PLTR option (Im like caocao at guandu rn just praying for a miracle other than that I cant retreat) [good fundamentals is good fundamentals]"
+  },
+  {
+    "id": "5002",
+    "header": "DLTR broke $77 since August plunge to low of $60 this is 11% higher than my former average position of $69",
+    "date": "2 Jan 2025",
+	"description": "New CEO from inside Michael Creedon to turn the company around"
+  },
+  {
+    "id": "5003",
+    "header": "SOFI down 5% largest single day drop since last August",
+    "date": "3 Jan 2025",
+	"description": "Mainly due to analyst downgrades and it being prices 3x over its peers and how inflation remain sticky with hopes of multiple rate cuts in 2025 dimmed which could have really helped SOFIs margin (what I think is: leave it let the sellers sell when the next report come around or anything it will recover as retail investors/hype investors scoop up the shares"
+  },
+  {
+    "id": "4362",
+    "header": "PLTR retreated back to $78 from new Christmas Eve high of $84.90",
+    "date": "28 Dec 2024",
+	"description": "Take note that pltr always does this pullback after forming new all time high as it did at $74 level but as history shows its going to bounce back I could have sold my option and joined back at a lower price but I only had one option of pltr and don’t wna risk losing it"
+  },
+  {
+    "id": "4352",
+    "header": "All red across stock market S&P500 dropped 2% after Fed Chair proposed only 2 rate cuts next year after this year’s 0.25% cut due to “unstable political outlook” and “accelerating inflation at 2.7%”",
+    "date": "18 Dec 2024",
+	"description": ""
+  },
+  {
+    "id": "4347",
+    "header": "AVGO pops 22% to $220 I have a position with the average of $159.6",
+    "date": "13 Dec 2024",
+	"description": "CEO revised 2025 Q1 estimates higher citing strong AI Chip demand 'AI revenue is projected to skyrocket to at least $60 billion to $90 billion in fiscal 2027', the CEO said VMware acquisition drove software infrastructure revenue growth Dividend increase 11% to $0.59"
+  },
+  {
+    "id": "4344",
+    "header": "Reflection: I feel like its 5th of Aug again the market is down due to carry trade of yen and I don’t have any more funds to DCA PS: be more aware of pullbacks after ATH you will see it quick often",
+    "date": "10 Dec 2024",
+	"description": "APP and PLTR slipped after recent all time highs but 1: I didn’t cancel my APP $373 after purchasing $386 2: most of my funds are tied up in stocks so when APP fell to $342 or PLTR at $72 I do not have the means to double down  PLTR and APP are just feeling the momentum pressure of selling as PLTR hit $83 ATH in the early morning investors started taking profits, I expect it to recover very soon while APP is at a very attractive and healthy buy point now after the 14% correction I only have a measly reserve of $980 left in (Lynn acc) which is enough for 2 APP or plenty of PLTR or I could hold and wait for further drops… Decision is to be made soon Action: might trim all the other side stocks AVGO AMD META AMZN to recoup funds but with chips sector at a decline due to Chinese probe into NVDA antimonopoly violation the chips stock I own cant be alleviated as of now only AMZN and META can be relieved"
+  },
+  {
+    "id": "4343",
+    "header": "APP falling 11% due to news that it is being snubbed from snp500",
+    "date": "9 Dec 2024",
+	"description": "I see it as a good thing this gives me more confidence in the stock instead as it provides a healthy correction opportunity from all the hype and as long as you are long term this stock you shouldn’t have to tweak or worry about anything just keep DCA’ing, will buy more tmr This stock is like the young player which has high potential where the coach says im not putting u in the team not because u aint good but u have much more potential I’ll let the seniors have a chance first. In other words this is like Simon telling Liam Payne to come back next year, furthermore APP is a very recent company IPO’d in 2021 while PLTR had been in the market since 2019 so its understandable SNP500 skipped APP"
+  },
+  {
+    "id": "4343.5",
+    "header": "SOFI Thesis",
+    "date": "9 Dec2024",
+	"description": "Lower rates will increase their profitability as they were playing conservative game during high and long IR as to not get burnt by delinquencies. Bad: rsu for employees (however these are considered “good” dilution as employees become more motivated to contribute) From 9 Sep 0.5 rate cut to right before 7 Nov 0.25 cut, they rallied 42%. From nov 7 rate cut to today they rallied another 35%. Sofi might increase another 25% at least by the end of this month after Dec 18 which will see the stock reach $20"
+  },
+  {
+    "id": "4341",
+    "header": "APP analysis DCF $1104 rated 22.43",
+    "date": "7 Dec 2024",
+	"description": "APP users 1.4B market cap now $114B, NFLX 282M market cap now $367B, I see APP growing to NFLX market share over the next year like NFLX was at Dec 2023 ($403)  APP does not need to produce its own content like NFLX which gives it lower costs and higher operating margin. With its AXON AI its basically like PLTR super scalable low marginal cost the only thing they have on their plate is to worry about competition and as long as they can maintain they current customers and user profiles they will always have an edge because its not just analysis that is important but the data garnered and AAPL made $26B from App Store, GOOGL $48B from Play Store (combined $74B) lets say APP only captures 2% of market its already $1.48B what’s more APP ttm revenue is already at $4.29B only going to grow larger  LAST POINT: with every new user/data the AXON engine is only going to get more refined and smarter"
+  },
+  {
+    "id": "4316",
+    "header": "ANALYSIS on DLTR, PLTR, NVDA",
+    "date": "12 Nov 2024",
+	"description": "DLTR is having some strong headwinds but i cant board is going to step up and name a successor CEO, (dividend is unlikely, buybacks unlikely), what i think will happen is that board will create something that will make investors more optimistic of the company. PLTR main concern now is not whether their software is good or not, its all up to their sales team of how they pitch their software for unique use cases for their potential clients now. PLTR is not overvalued just yet like how NVDA is not, just a little hot. NVDA according to last year 2023, NVDA price may slump in Dec 6, (chips export restriction, cooling AI demand, uncertainty about trump policies) [right now NVDA is inflated as everyone is buying new GPUs to join in bitcoin mining after bitcoin surge ATH after trump won so better to wait it out]"
+  },
+  {
+    "id": "4315",
+    "header": "SHOP is a good stock (rated 12.299)",
+    "date": "11 Nov 2024",
+	"description": "without adding V (which doesnt even compete wit h SHOP as much as PYPY) rating would be 13.299, average margin but good earnings recover from post covid slump"
+  },
+  {
+    "id": "4314",
+    "header": "BUY NVDA (rated 26.207) after trump hype dies abit",
+    "date": "10 Nov 2024",
+	"description": "NVDA though upside growth is unsustainable, it is still a monopoly at what it does: supplying high tier GPU’s not even AMD can compete, hedge risk by not buying more than 10 NVDA in ccase of AI crash"
+  },
+  {
+    "id": "4314.5",
+    "header": "BUY PLTR (rated 15.263)",
+    "date": "10 Nov 2024",
+	"description": "likely to grow more in the future however try to wait out this trump rally for pries to drop back down first, recent near billion dollar contract signed with National Defence"
+  },
+  {
+    "id": "4313",
+    "header": "Decision to make: consumer staples sector got huge spike in stock price DLTR went up 5%",
+    "date": "09 Nov 2024",
+	"description": "due to recent economic data showing inflation coming in hotter than expected, dollar general and dollar tree have been going up Question now is : is trump going to win, cuz if he does then i’ll have to sell off my position as 42% of DLTR goods are imported from China and it will hurt their bottom line Also one thing to note since 2019 DLTR and Dollar General stock prices after earnings have been in tandem so far "
+  },
+  {
+    "id": "4217",
+    "header": "Stock Market Plunge, Nikkei crash more than 10%",
+    "date": "05 Aug 2024",
+	"description": "Carry trade (which refers to investors using currency from low interest rate region eg Japan to trade securities overseas with higher return. Today it is announced that Japan will hike its IR for the first time in a long time. Arbitrage traders forced to liquidate their positions. Besides, recession fears and negative market sentiment towards crash makes regular retail investor panic even TikTok is circulating recession doom that a friend messaged me to warn me. However, market recovered the next day with opportunistic traders scooping up shares at a discounted price."
+  },
+  {
+    "id": "4209",
+    "header": "GRAB bad fundamentals",
+    "date": "28 Jul 2024",
+	"description": "Caring too much about acquiring loyal customers when really most people will just flock to service which is cheapest, yes although it has many divisions other than ehailing such as grocery delivery, food delivery, and grabpay, however there are many competitors in this field undercutting their profits: food panda, touchngo. Market share in SEA although largest at 37.7M still captures minimal percentage of 600M population. Still no profit when in truth their focus should be from capturing market share to actually turning green, company lost focus in growth narrative"
+  }
+]
