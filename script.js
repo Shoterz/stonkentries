@@ -2,7 +2,7 @@ let isNewestFirst = true;
 let items = []; // Declare items globally
 
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("https://mocki.io/v1/2d7ef5c9-925a-4cdb-a74e-d52459bd3e2d") // Replace with your JSON file or API endpoint
+  fetch("https://shoterz.github.io/stonkentries/testjson.json") // Replace with your JSON file or API endpoint
     .then((response) => response.json())
     .then((data) => {
       items = data; // Populate the global items array
