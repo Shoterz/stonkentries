@@ -1,5 +1,71 @@
 [
   {
+    "id": "5070",
+    "header": "There is a theory that suggests that Trump is purposely creating uncertainty and chaos in the market with all this short-term 180 decision to tank the market",
+    "date": "11 Mar 2025",
+	"description": "The thesis is that trump is doing this so that the Feds will have no choice but to cut the interest rates which will make the cost of borrowing/cost of interest payments on bonds go down. How is he going to accomplish it? First crash the stock market and make unemployment increase until there is a slowdown in the economy which might force the Fed’s hand. Though this plan may back fire in the form of stagflation I believe this is the playbook Trump is going by."
+  },
+  {
+    "id": "5059",
+    "header": "AppLovin down another 8% after yet another S&P500 snub",
+    "date": "10 Mar 2025",
+	"description": "Patience is key keep holding this potential stock and one day in a better macro condition market when it gets added to the S&P500 the stock will skyrocker. DoorDash which is chosen over AppLovin has over double the revenue of AppLovin significantly higher Free Cash Flow at $5B vs$0.7B however both DoorDash’s operating margin and revenue growth is tremendously below that of AppLovin. In that sense, DoorDash is a relatively cash rich company which is a good thing but AppLovin is poised for more growth. DoorDash faces competitor pressures from Uber Eats, Grub Hub in a highly commoditized market while AppLovin’s valuation could be said to be priced to near perfection meaning if the expected high growth does not continue its stock price is bound for a sizeable correction. Ultimately, AppLovin has greater growth prospect at the expense of risk."
+  },
+  {
+    "id": "5066.5",
+    "header": "AVGO up after hours after an earnings report that showed the AI trade is definitely not dead yet",
+    "date": "07 Mar 2025",
+	"description": "AVGO is up 16% in after hours as they beat EPS estimates and provide positive guidance"
+  },
+  {
+    "id": "5066",
+    "header": "S&P500 fell back to the level of $5700 first crossed in 18 Sep 2024 as traders deal with tariff uncertainty. The general consensus is that the Fed wont be cutting rates in the upcoming meeting due to rising inflation that could be caused by tariffs.",
+    "date": "07 Mar 2025",
+	"description": "SOFI which performance is tied significantly in correlation to the rate cuts took a big hit sliding to $12.45"
+  },
+  {
+    "id": "5057",
+    "header": "APP just plunged 15.79% to $318 Premarket",
+    "date": "26 Feb 2025",
+	"description": "This price fall follows a. short report that highlights AppLovin’s unethical and illegal ad practices including data theft from Meta that contributed to its current growth rate Last April 2024, fuzzy panda’s report on Globe Life Inc caused it to plunge 50% in the following run up till today Globe Life Inc has rebounded 108% from that low Another example is ASP Isotopes although short term a lot of volatility is created in the long term the stocks still recovered What I think: this is a perfect opportunity to grab some APP shares (cautiously) at a discount like SMCI except I believe APP above a 50% drop is more attractive and stable this is not any accounting fraud but business practices fraud which are harder to probe than numbers i will enter at $250 which is 50% drop from its ATH"
+  },
+  {
+    "id": "5052.5",
+    "header": "CELH celsius energy drink stock is interesting as my stock ratings program tells me that though the company fundamentals are not that good it is not supposed to be trading this cheap",
+    "date": "21 Feb 2025",
+	"description": "At -40% from 1 YA it is definitely trading at an attractive price but since I’m already betting on AMD which is another company with not so stellar fundamentals but highly undervalued I won’t be adding CELH to my portfolio despite its huge potential upside when a downturn/bear market hits its the Googles and NVIDIAs that can weather the storm with their sound fundamental not cheap cigarette butts granted these stocks will do well in bull market but we are 2 just 2 months into 2025 nobody knows how this year is going to pan out yet. I pick AMD over CELH and will therefore not get involved in CELH. I am thinking about concentrating my portfolio even further down to only 5 stocks: APP, AMD, NVDA/AVGO (count as one discard after earnings), MU, SOFI meaning I have to liquidate INTC"
+  },
+  {
+    "id": "5052",
+    "header": "DIRECTIVE: going forward we will substitute PLTR for AppLovin, do not allocate capital for PLTR anymore unless it crashes and gets cheap again meanwhile pivot PLTR’s supposed capital to capture APP [Chatgpt reasoning+search used prompt: compare APP and PLTR tell me which has more room to grow and which is more overvalued tell me about their customer base for example NFLX has 300M users]",
+    "date": "21 Feb 2025",
+	"description": "1) AppLovin has larger room to grow as the mobile usage and digital ad spend increase, highly scalable unlike PLTR’s consultancy model (every specialist for its 500 companies) 2) PLTR serves a niche small but high value customer base (large enterprise and government clients) [expansion in commercial sector is promising but priced in] 3) high revenue multiples 50x, investors are in speculative territory which may not be sustainable once AI hype and grow slows. AppLovin on the otherwise has a more reasonable premium although it still trades at a premium due to strong growth prospects however its valuation is more in line with the overall market potential. AppLovin has a lower relative overvaluation compared to PLTR considering its fundamentals and vast market opportunity. Even though its direct customer count (developers) might be lower its consumer reach (aggregated end-user base) is enormous"
+  },
+  {
+    "id": "5051.6",
+    "header": "Looking at META’s run last year I noticed it dropped to the $430 range and took 2 month (30 April to 10 July) to recover to the $530s",
+    "date": "20 Feb 2025",
+	"description": " Plan of action: liquidate APP for a possible reentry at $430 leave one-third behind"
+  },
+  {
+    "id": "5051.5",
+    "header": "AMD stock has been on a steady climb since last week",
+    "date": "20 Feb 2025",
+	"description": "AMD is trading at $116 today which puts my 19 Dec 2025 Call Option of Strike $90 valued at $3.53K"
+  },
+  {
+    "id": "5051",
+    "header": "PLTR down 15% after proposed defense budget cuts",
+    "date": "20 Feb 2025",
+	"description": "I will not be DCA’ing into PLTR even at $104 because my DCF of PLTR at $87 tells me that it is a little too hyped up right now thankfully i sold 2 thirds of my position at $118 left one-third in to have some exposure to unforeseen price runs"
+  },
+  {
+    "id": "5049",
+    "header": "INTC jumped 17% upon rumours that TSMC and AVGO may acquire parts of Intel",
+    "date": "18 Feb 2025",
+	"description": ""
+  },
+  {
     "id": "5044",
     "header": "APP popped off 33% after earnings beat",
     "date": "13 Feb 2025",
