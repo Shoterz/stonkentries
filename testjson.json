@@ -1,4 +1,23 @@
+// this is the format where the id is based on the order of the day in a year so jan 2 is 5002 help me format the below
 [
+  {
+  "id": "5094",
+  "header": "Obliteration Day for Stocks After Major Trump Tariffs Announcement",
+  "date": "04 Apr 2025",
+  "description": "Following Trump’s rollout of worldwide reciprocal tariffs, markets plummeted globally. In the US, the VIX spiked to 30.52. Tech and chip stocks led the losses with ~10% drops. Potential scenarios: 1) Tariffs spark retaliation, pushing the US into stagflation. 2) Some countries back off tariffs to de-escalate. 3) Congress may act to curb Trump’s power if their portfolios bleed. 4) A darker theory suggests Trump tipped off allies beforehand, creating a legal wealth shift. Despite chaos, Trump has secured investments from TSMC, Saudi Arabia, and others. Impeachment talk looms. While the tariffs may be popular, the economic outlook remains grim with high debt and hard choices ahead."
+  },
+  {
+  "id": "5086",
+  "header": "DLTR Spins Off Family Dollar After Earnings Shock",
+  "date": "27 Mar 2025",
+  "description": "DLTR announced during earnings that it will spin off its Family Dollar unit, signaling a return to its core strategy. The stock surged 11% on the news, though still far from last year's $130 highs. This highlights how even large-cap stocks facing massive declines can rebound once boards are pressured to act. Similar to Intel’s move with a new CEO, the DLTR board's action shows structural changes can reignite investor confidence. It’s a reminder that behind-the-scenes leadership shifts can create real momentum in beaten-down names."
+  },
+  {
+  "id": "5078",
+  "header": "Google’s $32B Acquisition of Cybersecurity Firm Wiz",
+  "date": "19 Mar 2025",
+  "description": "Wiz is an Israeli startup founded in 2020 with its latest funding round valuing it at $12B. Last July, Google approached Wiz to buy it out for $24B; however, due to antitrust concerns and valuation disagreements, the deal fell through. Now, Google is acquiring Wiz for $32B, a massive premium. Though seemingly overpaid, this is a strategic move to secure the cybersecurity of Google Cloud. Like government investment in highways, the return may take years, but it's foundational. As Google aims to take cloud market share from AWS, this acquisition strengthens its infrastructure and mitigates risk from cyber threats, which could otherwise become a major bottleneck."
+  },
   {
     "id": "5070",
     "header": "There is a theory that suggests that Trump is purposely creating uncertainty and chaos in the market with all this short-term 180 decision to tank the market",
