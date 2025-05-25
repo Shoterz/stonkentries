@@ -2,31 +2,47 @@ let isNewestFirst = true;
 let items = []; // Declare items globally
 
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("https://shoterz.github.io/stonkentries/testjson.json") // Replace with your JSON file or API endpoint
-    .then((response) => response.json())
-    .then((data) => {
-      items = data; // Populate the global items array
-      renderItems(items); // Initial render
+  const primaryURL = "https://shoterz.github.io/stonkentries/testjson.json";
+  const fallbackURL = "https://stonkentries.stocksuite.app/testjson.json";
+  const searchInput = document.querySelector("[data-search]");
 
-      // Set up the search event listener after the data is fetched
-      const searchInput = document.querySelector("[data-search]");
+  function fetchJSON(url) {
+    return fetch(url).then((response) => {
+      const contentType = response.headers.get("Content-Type") || "";
+      if (!response.ok || contentType.includes("text/html")) {
+        throw new Error("Invalid response or wrong content type");
+      }
+      return response.json();
+    });
+  }
 
-      searchInput.addEventListener("input", (e) => {
-        const value = e.target.value.toLowerCase();
+  function setupSearch(items) {
+    searchInput.addEventListener("input", (e) => {
+      const value = e.target.value.toLowerCase();
+      items.forEach((item) => {
+        const isVisible =
+          item.header.toLowerCase().includes(value) ||
+          item.date.toLowerCase().includes(value) ||
+          item.description.toLowerCase().includes(value);
 
-        items.forEach((item) => {
-          const isVisible =
-            item.header.toLowerCase().includes(value) ||
-            item.date.toLowerCase().includes(value) ||
-            item.description.toLowerCase().includes(value);
-
-          // Toggle the "hide" class based on visibility
-          item.element.classList.toggle("hide", !isVisible);
-        });
+        item.element.classList.toggle("hide", !isVisible);
       });
     });
+  }
 
-  const searchInput = document.querySelector("[data-search]");
+  // Attempt to fetch from primary, fallback on error
+  fetchJSON(primaryURL)
+    .catch(() => fetchJSON(fallbackURL))
+    .then((data) => {
+      items = data;
+      renderItems(items); // Your render function populates item.element
+      setupSearch(items);
+    })
+    .catch((error) => {
+      console.error("Both fetch attempts failed:", error);
+    });
+
+  // Keyboard shortcut handler
   document.addEventListener("keydown", (event) => {
     if (event.key === "/" && event.target.tagName !== "INPUT") {
       event.preventDefault();
@@ -36,6 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 function sortItemsById() {
   isNewestFirst = !isNewestFirst;
