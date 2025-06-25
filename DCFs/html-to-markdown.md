@@ -2,11 +2,11 @@
 > raw.githack.com <br/>
 > htmlpreview.github.io
 
-AppLovin (APP)
+AppLovin ([APP](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/APP%20yfinance.Ticker%20object%20%3CAPP%3E_fcf_report.html))
 
 Broadcom (AVGO)
 
-Tesla Inc (TSLA)
+Tesla Inc ([TSLA](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/TSLA%20yfinance.Ticker%20object%20%3CTSLA%3E_fcf_report.html))
 
 Micron Technology Inc (MU)
 
