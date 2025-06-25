@@ -4,7 +4,7 @@
 
 AppLovin ([APP](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/APP%20yfinance.Ticker%20object%20%3CAPP%3E_fcf_report.html))
 
-Broadcom ([AVGO](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/AVGO%20yfinance.Ticker%20object%20%3CAVGO%3E_fcf_report.html))
+Broadcom ([AVGO](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/AVGO%20yfinance.Ticker%20object%20_AVGO__fcf_report.html))
 
 Tesla Inc ([TSLA](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/TSLA%20yfinance.Ticker%20object%20%3CTSLA%3E_fcf_report.html))
 
