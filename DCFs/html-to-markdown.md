@@ -12,7 +12,7 @@ Micron Technology Inc (MU)
 
 UnitedHealth Group Inc (UNH)
 
-Advanced Micro Devices Inc (AMD) [AMD DCF Model] [https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/a7c750c927a0fcd62e32dafb0e6eac39fac9b0f8/DCFs/AMD%20yfinance.Ticker%20object%20%3CAMD%3E_fcf_report.html](url)
+Advanced Micro Devices Inc (AMD) [AMD DCF Model](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/a7c750c927a0fcd62e32dafb0e6eac39fac9b0f8/DCFs/AMD%20yfinance.Ticker%20object%20%3CAMD%3E_fcf_report.html)
 
 Snap Inc (SNAP)
 
