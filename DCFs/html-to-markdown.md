@@ -1,6 +1,4 @@
-body { font-family: 'Trebuchet MS', sans-serif } table, th, td { border: 1px solid black; border-collapse: collapse; padding: 8px; } tr:nth-child(even) { background-color: #f9f9f9; } .table { width: 100%; }
-
-AVGO - Discounted Cash Flow Analysis
+View The DCF Models We Created
 ------------------------------------
 
 2015
