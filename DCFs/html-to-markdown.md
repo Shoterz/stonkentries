@@ -1,23 +1,23 @@
 # View The DCF Models We Created
 
 
-2015
+AppLovin (APP)
 
-2016
+Broadcom (AVGO)
 
-2017
+Tesla Inc (TSLA)
 
-2018
+Micron Technology Inc (MU)
 
-2019
+UnitedHealth Group Inc (UNH)
 
-2020
+Advanced Micro Devices Inc (AMD)
 
-2021
+Snap Inc (SNAP)
 
-2022
+Shopify Inc (SHOP)
 
-2023
+Arista Networks Inc (ANET)
 
 2024
 
