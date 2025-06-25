@@ -18,4 +18,4 @@ Snap Inc (SNAP)
 
 Shopify Inc (SHOP)
 
-Arista Networks Inc (ANET)
+Arista Networks Inc ([ANET](https://htmlpreview.github.io/?https://github.com/Shoterz/stonkentries/blob/main/DCFs/ANET%20yfinance.Ticker%20object%20%3CANET%3E_fcf_report.html))
