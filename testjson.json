@@ -1,5 +1,11 @@
 [
   {
+  "id": "5257.5",
+  "header": "AMD down 5% after news of a Intel-Nvidia partnership",
+  "date":  "18 September 2025",
+  "description": "Intel jumped 26% upon news that NVIDIA will purchase Intel's common stock at a purhase price of $23.28 a share. They have also announced a strategic collaboration to develop AI infrastructure and personal computing products together. Moving forward, Intel will start building custom x86 CPUs for Nvidia's AI infrastructure platforms while Intel will develop x86 system-on-chips that integrate Nvidia RTX GPU chiplets."
+  },
+  {
   "id": "5257",
   "header": "UBER slides 5% upon news of Lyft's deal with Waymo in Nashville",
   "date":  "18 September 2025",
@@ -528,6 +534,7 @@
 	"description": "Caring too much about acquiring loyal customers when really most people will just flock to service which is cheapest, yes although it has many divisions other than ehailing such as grocery delivery, food delivery, and grabpay, however there are many competitors in this field undercutting their profits: food panda, touchngo. Market share in SEA although largest at 37.7M still captures minimal percentage of 600M population. Still no profit when in truth their focus should be from capturing market share to actually turning green, company lost focus in growth narrative"
   }
 ]
+
 
 
 
