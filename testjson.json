@@ -1,5 +1,11 @@
 [
   {
+  "id": "5269",
+  "header": "Micron (MU) pops 9% after news of OpenAI partnering with SK Hyinx and Samsung for GPU memory in Korean data centers.",
+  "date":  "1 October 2025",
+  "description": "DRAM are very important in AI inferencing and training. They are as vital as the NVIDIA GPU CUDA cores as they quick access for the tensorcores to compute from the cache and global memory. Micron stock climbs to $183 although this partnership does not involve Micron. This is due to the fact that this partnership of OpenAI with Korean memory manufacturers indicate that demand for memory for AI accelerators are at an all time time and the 2nd wave of AI has officially hit us. From the rise of Nebius (NBIS) appreciating 95% just over the past month, to Micron doubling its stock price from the start of the year, there has never been a period of greater demand for AI computation capabilities."
+  },
+  {
   "id": "5257.5",
   "header": "AMD down 5% after news of a Intel-Nvidia partnership",
   "date":  "18 September 2025",
@@ -534,6 +540,7 @@
 	"description": "Caring too much about acquiring loyal customers when really most people will just flock to service which is cheapest, yes although it has many divisions other than ehailing such as grocery delivery, food delivery, and grabpay, however there are many competitors in this field undercutting their profits: food panda, touchngo. Market share in SEA although largest at 37.7M still captures minimal percentage of 600M population. Still no profit when in truth their focus should be from capturing market share to actually turning green, company lost focus in growth narrative"
   }
 ]
+
 
 
 
